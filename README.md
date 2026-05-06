@@ -19,45 +19,45 @@
 
 ---
 
-## 👾 Sobre mim
+## 👾 About me
 
 ```rust
 struct Developer {
-    nome:        &'static str,
-    localizacao: &'static str,
-    formacao:    &'static str,
-    foco:        &'static str,
-    modo:        &'static str,
+    name: &'static str,
+    location: &'static str,
+    education: &'static str,
+    area: &'static str,
+    hobbies: &'static str,
 }
 
 fn main() {
     let pedro = Developer {
-        nome:        "Pedro Henrique Xavier",
-        localizacao: "Santa Catarina, Brasil 🇧🇷",
-        formacao:    "IFSC - Campus Lages",
-        foco:        "Backend Development",
-        modo:        "Estudante full-stack",
+        name: "Pedro Henrique Xavier",
+        location: "Santa Catarina, Brasil 🇧🇷",
+        education: "IFSC - Lages",
+        area: "Backend Development",
+        hobbies: "Cinema, 3D printing and Games",
     };
 
-    println!("Olá, mundo! Eu sou {}", pedro.nome);
+    println!("Hello, World! My name is {}", pedro.name);
 }
 ```
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Stack & Tools
 
 <div align="center">
 
-### Domínio
+### Skillset
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Aprendendo agora
+### Learning now
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Ferramentas do dia a dia
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -67,7 +67,7 @@ fn main() {
 
 ---
 
-## 📈 Estatísticas
+## 📈 Stats
 
 <div align="center">
 
@@ -95,7 +95,7 @@ fn main() {
 
 ---
 
-## 💡 Filosofia
+##                    💡 
 
 > *"Look on my works, ye mighty, and despair!"*
 > —Ozymandias by Percy Bysshe Shelley, 
