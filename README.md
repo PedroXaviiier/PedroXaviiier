@@ -13,7 +13,7 @@
 ### **`< Backend Developer />`** · Student · Builder
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroXaviiier)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phxavier.phx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](phxavier.phx@gmail.com)
 
 </div>
 
@@ -87,7 +87,7 @@ fn main() {
 ## 🧭 Roadmap 2026
 
 ```
-[█████████░] C# & .NET       → Polishing
+[██████████] C# & .NET       → Polishing
 [████░░░░░░] Python          → Work in progress
 [███░░░░░░░] Rust            → Work in progress
 [░░░░░░░░░░] APIs & Cloud    → Next step
