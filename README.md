@@ -87,7 +87,7 @@ fn main() {
 ## 🧭 Roadmap 2026
 
 ```
-[██████████] C# & .NET       → Polishing
+[█████████░] C# & .NET       → Polishing
 [████░░░░░░] Python          → Work in progress
 [███░░░░░░░] Rust            → Work in progress
 [░░░░░░░░░░] APIs & Cloud    → Next step
