@@ -87,24 +87,24 @@ fn main() {
 ## 🧭 Roadmap 2026
 
 ```
-[██████████] C# & .NET       → Consolidando
-[████░░░░░░] Python          → Em progresso
-[███░░░░░░░] Rust            → Explorando
-[░░░░░░░░░░] APIs & Cloud    → Próximo passo
+[██████████] C# & .NET       → Consolidated
+[████░░░░░░] Python          → Work in progress
+[███░░░░░░░] Rust            → Work in progress
+[░░░░░░░░░░] APIs & Cloud    → Next step
 ```
 
 ---
 
 ## 💡 Filosofia
 
-> *"Primeiro faça funcionar, depois faça certo, depois faça rápido."*
-> — Kent Beck
+> *"Look on my works, ye mighty, and despair!"*
+> —Ozymandias by Percy Bysshe Shelley, 
 
 ---
 
 <div align="center">
 
-**Feito com 🎧 e muita curiosidade · Santa Catarina, Brasil**
+**Made in Brasil**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pedrohenriquedsdev&color=6e40c9&style=flat-square&label=visitors)
 
